@@ -1,0 +1,5 @@
+#OSCAddress,#Tags,#Channel,#Note,#Duration,#Velocity
+/3/xyM_l,   ff,   2,       Tag1, Tag2,     Tag2
+/faderM,    f,    2,       Tag1, Tag1,     Tag1
+/toggleA_1, f,    2,       Tag1, Tag1,     Tag1
+/syntien/touchpad/1/touchpad1/press, ffffii, 2, Tag1, Tag2, Tag1
